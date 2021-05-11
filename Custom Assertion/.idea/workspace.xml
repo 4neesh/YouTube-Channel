@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="389e8ae3-b0b1-4ac9-aaab-b663da8e0803" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/statistics/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/statistics/PlayerStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerStatisticsTestCustomMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/target/test-classes/PlayerStatisticsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/target/test-classes/PlayerStatisticsTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s52cRZzbXeSoxqITG4t5I0UMzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PlayerStatisticsTestCustomMatcher.playerConstructorAssignsName">
+    <configuration name="PlayerStatisticsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <option name="PACKAGE_NAME" value="test.playerStatistics" />
+      <option name="MAIN_CLASS_NAME" value="test.playerStatistics.PlayerStatisticsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerStatisticsTestCustomMatcher.playerConstructorAssignsName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="statistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="statistics" />
+      <option name="MAIN_CLASS_NAME" value="statistics.PlayerStatisticsTestCustomMatcher" />
+      <option name="METHOD_NAME" value="playerConstructorAssignsName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerStatisticsTest.playerNameEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <option name="PACKAGE_NAME" value="test.playerStatistics" />
+      <option name="MAIN_CLASS_NAME" value="test.playerStatistics.PlayerStatisticsTest" />
+      <option name="METHOD_NAME" value="playerNameEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerStatisticsTestCustomMatcher.playerConstructorAssignsName" />
+        <item itemvalue="JUnit.PlayerStatisticsTest" />
+        <item itemvalue="JUnit.PlayerStatisticsTest.playerNameEqual" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="389e8ae3-b0b1-4ac9-aaab-b663da8e0803" name="Default Changelist" comment="" />
+      <created>1620148244322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620148244322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620667573244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620667573244" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1620752386008">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386008" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1620752386006">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386006" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1620752386004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386004" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1620752386007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386007" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1620673351247">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620673351247" />
+  </component>
+</project>
