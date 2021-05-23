@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e26b68f0-d48a-4706-bae5-95e8f76ca800" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qkOd131XvwvPPi3paHkGod0EV9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.BookingManagerTest">
+    <configuration name="BookingManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoWhen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingManagerTest.checkAvailableRoomsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoWhen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="METHOD_NAME" value="checkAvailableRoomsFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingManagerTest.checkAvailableRoomsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MockitoWhen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="METHOD_NAME" value="checkAvailableRoomsTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingManagerTest" />
+        <item itemvalue="JUnit.BookingManagerTest.checkAvailableRoomsFalse" />
+        <item itemvalue="JUnit.BookingManagerTest.checkAvailableRoomsTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e26b68f0-d48a-4706-bae5-95e8f76ca800" name="Default Changelist" comment="" />
+      <created>1617620204962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617620204962</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Mockito mock, when, thenReturn tutorial">
+      <created>1617726437474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617726437474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mockito mock, when, thenReturn tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mockito mock, when, thenReturn tutorial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1617726435693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617726435693" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1617727040894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617727040894" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1617726055460" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1617727040892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617727040892" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1617726055458" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1617727040891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617727040891" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1617726055457" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1617727040893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617727040893" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1617726055459" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1617726447231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617726447231" />
+  </component>
+</project>

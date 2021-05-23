@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2385f739-27ff-4ac9-846c-3a88a384fe6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/main/java/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/test/java/DatabaseManagerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rcYccSLHCLdIScKCvXYn4dbyP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.squaredIntegerNaN">
+    <configuration name="CalculatorTest.squaredIntegerLowerBoundary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parameters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squaredIntegerLowerBoundary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squaredIntegerNaN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parameters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squaredIntegerNaN" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squaredIntegerNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parameters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squaredIntegerNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squaredIntegerNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parameters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squaredIntegerNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.squaredIntegerUpperBoundary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parameters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="squaredIntegerUpperBoundary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.squaredIntegerNaN" />
+        <item itemvalue="JUnit.CalculatorTest.squaredIntegerNegative" />
+        <item itemvalue="JUnit.CalculatorTest.squaredIntegerNull" />
+        <item itemvalue="JUnit.CalculatorTest.squaredIntegerLowerBoundary" />
+        <item itemvalue="JUnit.CalculatorTest.squaredIntegerUpperBoundary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2385f739-27ff-4ac9-846c-3a88a384fe6d" name="Default Changelist" comment="" />
+      <created>1619276927148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619276927148</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Parameter testing demo">
+      <created>1619376259081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619376259081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parameter testing demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parameter testing demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1619376256037">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376256037" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1619376315836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376315836" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1619277928527" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1619376315831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376315831" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1619277928525" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1619376315825">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376315825" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1619277928523" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1619376315834">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376315834" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1619277928526" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1619376268099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619376268099" />
+  </component>
+</project>

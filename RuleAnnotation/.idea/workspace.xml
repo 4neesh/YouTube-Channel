@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="639f2cd9-055d-4316-9ea1-91551bacb0f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CsvLineCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CsvLineCounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../@Before/target/test-classes/PlayerStatisticsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/target/test-classes/PlayerStatisticsTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1slP5ZoVQtCkeJj42UlVAExVkb2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.CsvLineCounterTest.countLines">
+    <configuration name="CsvLineCounterTest.countLines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RuleAnnotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CsvLineCounterTest" />
+      <option name="METHOD_NAME" value="countLines" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsvLineCounterTest.countLines2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RuleAnnotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CsvLineCounterTest" />
+      <option name="METHOD_NAME" value="countLines2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RuleAnnotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CsvLineCounterTest.countLines" />
+        <item itemvalue="JUnit.ExampleTest.test1" />
+        <item itemvalue="JUnit.CsvLineCounterTest.countLines2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639f2cd9-055d-4316-9ea1-91551bacb0f3" name="Default Changelist" comment="" />
+      <created>1621444023281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621444023281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1621618431709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621618431709" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1621448329534" />
+    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1621618431706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621618431706" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1621448329532" />
+    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1621618431705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621618431705" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1621448329531" />
+    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1621618431708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621618431708" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1621448329533" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1621448391563">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621448391563" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1621448391559">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621448391559" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1621448391556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621448391556" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1621448391561">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621448391561" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1621529266617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1621529266617" />
+  </component>
+</project>

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e15f359-9e35-4fe3-a8cc-e822a12c1988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentScoreCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StudentScoreCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StudentScoreCalculatorTestParams.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e15f359-9e35-4fe3-a8cc-e822a12c1988" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,22 +104,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="495" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617376688576" />
-    <state width="1878" height="323" key="GridCell.Tab.0.bottom" timestamp="1617379535202">
+    <state width="1878" height="517" key="GridCell.Tab.0.bottom" timestamp="1617448579661">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617379535202" />
-    <state width="1878" height="323" key="GridCell.Tab.0.center" timestamp="1617379535199">
+    <state width="1878" height="517" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617448579661" />
+    <state width="1878" height="517" key="GridCell.Tab.0.center" timestamp="1617448579658">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="323" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617379535199" />
-    <state width="1878" height="323" key="GridCell.Tab.0.left" timestamp="1617379535198">
+    <state width="1878" height="517" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617448579658" />
+    <state width="1878" height="517" key="GridCell.Tab.0.left" timestamp="1617448579522">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="323" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617379535198" />
-    <state width="1878" height="323" key="GridCell.Tab.0.right" timestamp="1617379535200">
+    <state width="1878" height="517" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617448579522" />
+    <state width="1878" height="517" key="GridCell.Tab.0.right" timestamp="1617448579659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="323" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617379535200" />
+    <state width="1878" height="517" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617448579659" />
     <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1617367344865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

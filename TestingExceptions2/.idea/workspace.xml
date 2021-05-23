@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="249d8074-e9c4-4b53-9cef-53d6b6551321" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rsbh3KV81sVx4O0oX3CvT38LFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RaceReportProcessorTest.generateReportDriverFileThrowsFileNotFound">
+    <configuration name="RaceReportProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RaceReportProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceReportProcessorTest.generateReportDriverFileNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RaceReportProcessorTest" />
+      <option name="METHOD_NAME" value="generateReportDriverFileNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceReportProcessorTest.generateReportDriverFileNotFoundCaught" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RaceReportProcessorTest" />
+      <option name="METHOD_NAME" value="generateReportDriverFileNotFoundCaught" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceReportProcessorTest.generateReportDriverFileThrowsFileNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RaceReportProcessorTest" />
+      <option name="METHOD_NAME" value="generateReportDriverFileThrowsFileNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RaceReportProcessorTest.generateReportDriverFileThrowsFileNotFound" />
+        <item itemvalue="JUnit.RaceReportProcessorTest" />
+        <item itemvalue="JUnit.RaceReportProcessorTest.generateReportDriverFileNotFoundCaught" />
+        <item itemvalue="JUnit.RaceReportProcessorTest.generateReportDriverFileNotFound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="249d8074-e9c4-4b53-9cef-53d6b6551321" name="Default Changelist" comment="" />
+      <created>1619767860928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619767860928</updated>
+    </task>
+    <task id="LOCAL-00001" summary="CatchException library video">
+      <created>1619950427654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619950427655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CatchException library video" />
+    <option name="LAST_COMMIT_MESSAGE" value="CatchException library video" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619892941020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="104" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619892941020" />
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1619950424114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950424114" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1619950448652">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="305" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1619882079294" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448652" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1619950448650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="305" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1619882079292" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448650" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1619950448649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="305" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1619882079291" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448649" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1619950448651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="305" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1619882079293" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448651" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1619950448657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448657" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1619950448655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448655" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1619950448654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448654" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1619950448656">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950448656" />
+    <state x="461" y="198" key="SettingsEditor" timestamp="1619892269112">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619891256899" />
+    <state x="461" y="198" key="SettingsEditor/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1619892269112" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1619950434765">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619950434765" />
+  </component>
+</project>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c1b2f64-fe58-405d-86ea-e96043b951e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/main/java/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/test/java/DatabaseManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/src/main/java/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/src/main/java/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/src/main/java/RaceReportProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/src/main/java/RaceReportRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingExceptions2/src/test/java/RaceReportProcessorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qemvEhrhSlu0CtdDCBNENDw72p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.CashierTest">
+    <configuration name="CashierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CashierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashierTest.validateTransactionAmountNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CashierTest" />
+      <option name="METHOD_NAME" value="validateTransactionAmountNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashierTest.validateTransactionThrowsIllegalArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CashierTest" />
+      <option name="METHOD_NAME" value="validateTransactionThrowsIllegalArgument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CashierTest.validateTransactionThrowsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestingExceptions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CashierTest" />
+      <option name="METHOD_NAME" value="validateTransactionThrowsInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CashierTest" />
+        <item itemvalue="JUnit.CashierTest.validateTransactionAmountNegative" />
+        <item itemvalue="JUnit.CashierTest.validateTransactionThrowsIllegalArgument" />
+        <item itemvalue="JUnit.CashierTest.validateTransactionThrowsInvalid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c1b2f64-fe58-405d-86ea-e96043b951e1" name="Default Changelist" comment="" />
+      <created>1617448659607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617448659607</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exception tests with JUnit">
+      <created>1617612523839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617612523839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exception tests with JUnit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception tests with JUnit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1617457655116">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617457655116" />
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1617612522539">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617612522539" />
+    <state width="1238" height="462" key="GridCell.Tab.0.bottom" timestamp="1617612575912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="462" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1617554391006" />
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617531832346" />
+    <state width="1238" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617612575912" />
+    <state width="1238" height="462" key="GridCell.Tab.0.center" timestamp="1617612575908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="462" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1617554391005" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617531832343" />
+    <state width="1238" height="462" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617612575908" />
+    <state width="1238" height="462" key="GridCell.Tab.0.left" timestamp="1617612575772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="462" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1617554391004" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617531832341" />
+    <state width="1238" height="462" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617612575772" />
+    <state width="1238" height="462" key="GridCell.Tab.0.right" timestamp="1617612575910">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="462" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1617554391006" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617531832344" />
+    <state width="1238" height="462" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617612575910" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1617449021998">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617449021998" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1617612535221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1617612535221" />
+    <state x="637" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617449021005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1617449021005" />
+    <state x="559" y="203" key="new project wizard" timestamp="1619767848357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="203" key="new project wizard/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1619767848357" />
+  </component>
+</project>

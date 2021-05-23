@@ -1,3 +1,5 @@
+import static jdk.internal.dynalink.support.Guards.isNotNull;
+
 public class Player {
 
     private String name;
@@ -28,5 +30,15 @@ public class Player {
     public boolean equals(Object obj) {
         Player p = (Player)obj;
         return p.getName() == this.getName();
+    }
+
+    public static PlayerAssert assertThat
+
+    public Player hasName(String name){
+        isNotNull();
+        if (!actual.getName().equals(name)){
+            failWithMessage("Expected name: " + actual.getName() + " but received " + name)
+        }
+        return this;
     }
 }

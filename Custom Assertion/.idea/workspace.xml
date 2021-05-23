@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="389e8ae3-b0b1-4ac9-aaab-b663da8e0803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/statistics/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/statistics/PlayerStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerStatisticsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/statistics/PlayerStatisticsTestCustomMatcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../@Before/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/main/java/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../@Before/src/test/java/PlayerStatisticsTest.java" afterDir="false" />
@@ -116,22 +110,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="724" y="412" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620667573244" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1620752386008">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1620926350426">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386008" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1620752386006">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620926350426" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1620926350422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386006" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1620752386004">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620926350422" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1620926350421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386004" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1620752386007">
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620926350421" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1620926350424">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620752386007" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1620926350424" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1620673351247">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
