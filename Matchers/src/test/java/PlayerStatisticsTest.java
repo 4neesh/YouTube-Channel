@@ -1,4 +1,5 @@
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.assertj.core.api.AssertionsForInterfaceTypes.assertThat;
@@ -19,9 +20,10 @@ public class PlayerStatisticsTest {
     }
 
     @Test
-    public void playerNameEqual(){
+    public void playerNameEqual() throws InterruptedException {
+
         System.out.println("test 1");
-        Player player2 = new Player("Patrick", 25);
+        Player player2 = new Player("Parick", 25);
         assertThat(player2).isEqualTo(playerPatrickUnderThirty);
     }
 
@@ -33,9 +35,9 @@ public class PlayerStatisticsTest {
     }
 
     @Test
-    public void youngerPlayerSame(){
+    public void youngerPlayerSame() {
         System.out.println("test 3");
-        Player player2 = new Player("Patrick", 25);
+        Player player2 = new Player("Patrick", 250);
         assertThat(PlayerStatistics.getYoungerPlayer(playerPatrickUnderThirty, player2)).isSameAs(player2);
     }
 
