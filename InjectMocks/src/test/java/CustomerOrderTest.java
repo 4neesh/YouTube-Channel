@@ -16,6 +16,9 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class CustomerOrderTest {
 
     @Spy
+    BreakfastWaiter breakfastWaiter;
+
+    @Spy
     DinnerWaiter dinnerWaiter;
 
     @InjectMocks
