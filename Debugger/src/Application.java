@@ -1,39 +1,65 @@
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Application {
 
     public static void main(String[] args) {
 
-        Player player1 = new Player("Jordan", 27);
-        Player player2 = new Player("Kyle", 31);
-        Player player3 = new Player("John", 27);
-        Player player4 = new Player("Tyrone", 28);
-        Player player5 = new Player("Kieran", 30);
-        Player player6 = new Player("Kalvin", 25);
-        Player player7 = new Player("Declan", 22);
-        Player player8 = new Player("Mason", 22);
-        Player player9 = new Player("Phillip", 21);
-        Player player10 = new Player("Harry", 27);
-        Player player11 = new Player("Raheem", 26);
-
-        List<Player> squad = Arrays.asList(player1, player2, player3,
-                player4, player5, player6, player7, player8, player9,
-                player10, player11);
-
-
-        int accumulativeAgeOfSquad = calculatePlayerListTotalAge(squad);
-        int squadSize = squad.size();
-        double averageAge = divideTwoNumbers(accumulativeAgeOfSquad, squadSize);
-        System.out.println(averageAge);
+        Map<String, List<Player>> teamPlayerMap = fetchTeamPlayerMap();
+        Map<String, Integer> teamAverageAgeMap = calculateAverageTeamAge(teamPlayerMap);
+        printPlayersToReport(teamPlayerMap, teamAverageAgeMap);
     }
 
-    private static double divideTwoNumbers(int numerator, int denominator) {
-        return numerator/denominator;
+    private static Map<String, List<Player>> fetchTeamPlayerMap() {
+
+        List<Player> players = new ArrayList<>();
+        players.add(new Player("Jordan", "A United",27));
+        players.add(new Player("Kyle", "B United",31));
+        players.add(new Player("John", "A United",27));
+        players.add(new Player("Tyrone", "A City",28));
+        players.add(new Player("Kieran", "A City",30));
+        players.add(new Player("Kalvin", "B United",25));
+        players.add(new Player("Declan", "A United",22));
+        players.add(new Player("Mason", "A City",22));
+        players.add(new Player("Phillip", "A City",21));
+        players.add(new Player("Harry", "C United",27));
+        players.add(new Player("Raheem", "A City",26));
+
+        players.add(new Player("Kyle", "D United",31));
+        players.add(new Player("John", "AC United",27));
+        players.add(new Player("Tyrone", "E City",28));
+        players.add(new Player("Kieran", "F City",30));
+        players.add(new Player("Kalvin", "G United",25));
+        players.add(new Player("Declan", "H United",22));
+        players.add(new Player("Mason", "AI City",22));
+        players.add(new Player("Phillip", "AI City",21));
+        players.add(new Player("Harry", "CA United",27));
+        players.add(new Player("Raheem", "AS City",26));
+        return players.stream()
+                .collect(Collectors.groupingBy(entry -> entry.getTeam()));
     }
 
-    private static int calculatePlayerListTotalAge(List<Player> squad) {
-        System.out.println("Calculating total player age for squad of size: " + squad);
-        return squad.stream().mapToInt(player -> player.getAge()).sum();
+
+    private static Map<String, Integer> calculateAverageTeamAge(Map<String, List<Player>> teamPlayerMap) {
+
+        Map<String, Integer> teamToAverageAgeMap = new HashMap<>();
+
+        for(String team : teamPlayerMap.keySet()){
+
+            List<Player> teamPlayers = teamPlayerMap.get(team);
+            teamToAverageAgeMap.put(team, 0);
+            Integer totalAge = 0;
+            for(Player player : teamPlayers){
+                totalAge += player.getAge();
+            }
+            Integer averageAge = totalAge / teamPlayers.size();
+            teamToAverageAgeMap.put(team, averageAge);
+        }
+
+        return teamToAverageAgeMap;
+     }
+
+
+    private static void printPlayersToReport(Map<String, List<Player>> aUnitedPLayers, Map<String, Integer> teamAverageAgeMap) {
     }
 }

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8fbf15b-900e-456e-aebb-c4f2500da9a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/BooksLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debugger/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Debugger/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debugger/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Debugger/src/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wFk9SMfxd1LmLRuGgRJ0TL9PJv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.18383989" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.BookStore" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8fbf15b-900e-456e-aebb-c4f2500da9a5" name="Default Changelist" comment="" />
+      <created>1628061579686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628061579686</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Builder design pattern">
+      <created>1628333684955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628333684955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Builder design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder design pattern" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1628329792087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1628329792087" />
+    <state x="773" y="242" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1628098888701" />
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1628333678592">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1628333678592" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1630330936294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936294" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1630330936290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936290" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1630330936289">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936289" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1630330936292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936292" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1630330936299">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936299" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1630330936296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936296" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1630330936295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936295" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1630330936297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630330936297" />
+    <state x="461" y="190" width="1350" height="722" key="SettingsEditor" timestamp="1628234382116">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="461" y="190" width="1350" height="722" key="SettingsEditor/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1628234382116" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1628333696161">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1628333696161" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1628097225783">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1628097225783" />
+  </component>
+</project>

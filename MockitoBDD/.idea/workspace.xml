@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="345e7560-c202-4202-90ff-d9687bf4f5c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/BooksLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debugger/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Debugger/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Debugger/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Debugger/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PassengerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TrainBarriers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TrainBarriers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TrainBarriersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrainBarriersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PassengerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrainBarriers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TrainBarriers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TrainBarriersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TrainBarriersTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rIcHyLZG5l8jQhSoLl45F7eo3U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.TrainBarriersTest.passengerEntryBdd">
+    <configuration name="TrainBarriersTest.passengerEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Verify" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrainBarriersTest" />
+      <option name="METHOD_NAME" value="passengerEntry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainBarriersTest.passengerEntryBdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Verify" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrainBarriersTest" />
+      <option name="METHOD_NAME" value="passengerEntryBdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrainBarriersTest.passengerEntryBdd" />
+        <item itemvalue="JUnit.TrainBarriersTest.passengerEntry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345e7560-c202-4202-90ff-d9687bf4f5c2" name="Default Changelist" comment="" />
+      <created>1618666961560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618666961560</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Mockito Verify demo">
+      <created>1618745073980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618745073980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mockito Verify demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mockito Verify demo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1630999389740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1630999389740" />
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1631027771983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631027771983" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630949912050" />
+    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1631027771981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="369" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631027771981" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630949912048" />
+    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1631027771980">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="369" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631027771980" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630949912046" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1631027771982">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="369" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631027771982" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1630949912049" />
+  </component>
+</project>

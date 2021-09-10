@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49bdbbea-e123-40a2-aa9c-5f9105f8dd3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vdNuWDTWOb5lWdMhqU0ez9wuml" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerOrderTest.testServeVegetarianBreakfast">
+    <configuration name="CustomerOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InjectMocks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerOrderTest.testServeBreakfast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InjectMocks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerOrderTest" />
+      <option name="METHOD_NAME" value="testServeBreakfast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerOrderTest.testServeMeatDinner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InjectMocks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerOrderTest" />
+      <option name="METHOD_NAME" value="testServeMeatDinner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerOrderTest.testServeVegetarianBreakfast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InjectMocks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerOrderTest" />
+      <option name="METHOD_NAME" value="testServeVegetarianBreakfast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerOrderTest.testServeVegetarianBreakfast" />
+        <item itemvalue="JUnit.CustomerOrderTest.testServeMeatDinner" />
+        <item itemvalue="JUnit.CustomerOrderTest.testServeBreakfast" />
+        <item itemvalue="JUnit.CustomerOrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49bdbbea-e123-40a2-aa9c-5f9105f8dd3a" name="Default Changelist" comment="" />
+      <created>1626888230302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626888230302</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inject mocks code">
+      <created>1627132590810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627132590810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inject mocks code">
+      <created>1627132908461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627132908461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inject mocks code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inject mocks code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626889445506">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1626889445506" />
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1627125152501">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627125152501" />
+    <state x="-1090" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626973139231">
+      <screen x="-1280" y="23" width="1280" height="777" />
+    </state>
+    <state x="-1090" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626973139231" />
+    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1627132906079">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627132906079" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1627133193174">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627125266257" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1627133193174" />
+    <state width="1238" height="199" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626976139531" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1627120399731" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1627133193172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627125266253" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1627133193172" />
+    <state width="1238" height="199" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626976139530" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1627120399730" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1627133193171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627125266252" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1627133193171" />
+    <state width="1238" height="199" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626976139529" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1627120399730" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1627133193173">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1627125266255" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1627133193173" />
+    <state width="1238" height="199" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626976139530" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.23.1280.777@0.23.1920.1057" timestamp="1627120399731" />
+    <state x="-1102" y="73" key="Maven.ArtifactSearchDialog" timestamp="1626973822736">
+      <screen x="-1280" y="23" width="1280" height="777" />
+    </state>
+    <state x="-1102" y="73" key="Maven.ArtifactSearchDialog/0.23.1920.1057/-1280.23.1280.777@-1280.23.1280.777" timestamp="1626973822736" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1627132925242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.23.1280.777@0.0.1920.1080" timestamp="1627132925242" />
+    <state x="739" y="353" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1626888964147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="353" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1626888964146" />
+  </component>
+</project>

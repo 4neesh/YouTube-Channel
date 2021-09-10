@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="038f71a0-a864-4899-8444-17816855ea39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Debugger/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Debugger/src/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uGhCnqWczhr3zIBTp6DY7X8YD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Demos" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookingManagerTest.addReservationWithMockito">
+    <configuration name="BookingManagerTest.addReservation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YoutubeDemos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="METHOD_NAME" value="addReservation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingManagerTest.addReservationWithMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CollectionTest" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="METHOD_NAME" value="addReservationWithMockito" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YoutubeDemos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradeCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculatorTest.computeGradeWithPowermock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YoutubeDemos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradeCalculatorTest" />
+      <option name="METHOD_NAME" value="computeGradeWithPowermock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculatorTest.computeGradeWithReflection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="YoutubeDemos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GradeCalculatorTest" />
+      <option name="METHOD_NAME" value="computeGradeWithReflection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="YoutubeDemos" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="YoutubeDemos" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingManagerTest.addReservationWithMockito" />
+        <item itemvalue="JUnit.BookingManagerTest.addReservation" />
+        <item itemvalue="JUnit.GradeCalculatorTest.computeGradeWithPowermock" />
+        <item itemvalue="JUnit.GradeCalculatorTest.computeGradeWithReflection" />
+        <item itemvalue="JUnit.GradeCalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038f71a0-a864-4899-8444-17816855ea39" name="Default Changelist" comment="" />
+      <created>1624297712645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624297712645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1625502165283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625502165283" />
+    <state x="960" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1625319710367">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="960" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1625319710367" />
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625502128283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625502128283" />
+    <state width="1878" height="430" key="GridCell.Tab.0.bottom" timestamp="1625558683586">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1625418730414" />
+    <state width="1878" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625558683586" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131428" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1624540434043" />
+    <state width="1878" height="430" key="GridCell.Tab.0.center" timestamp="1625558683581">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1625418730413" />
+    <state width="1878" height="430" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625558683581" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131427" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1624540434040" />
+    <state width="1878" height="430" key="GridCell.Tab.0.left" timestamp="1625558683579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1625418730412" />
+    <state width="1878" height="430" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625558683579" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131426" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1624540434038" />
+    <state width="1878" height="430" key="GridCell.Tab.0.right" timestamp="1625558683583">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1625418730413" />
+    <state width="1878" height="430" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625558683583" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131428" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1624540434042" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1625507131432">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625506915118" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131432" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1625507131430">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625506915116" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131430" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1625507131429">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625506915116" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131429" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1625507131431">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625506915117" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507131431" />
+    <state x="461" y="179" key="SettingsEditor" timestamp="1625507716206">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="179" key="SettingsEditor/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625507716206" />
+    <state x="461" y="179" key="SettingsEditor/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1625507110686" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1625501362507">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1625501362507" />
+  </component>
+</project>
