@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df5eafc7-925c-439d-b1b2-4d54b6c1ab15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Answer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/main/java/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/main/java/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/test/java/BookManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/test/java/BookingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/collectionEnhancements/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bungalow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/SwimmingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/lambdaInterfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/optionals/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/main/java/GoalStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/test/java/GoalStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21S8vaYhQ36tsZYY3OK3SlMPGI2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df5eafc7-925c-439d-b1b2-4d54b6c1ab15" name="Default Changelist" comment="" />
+      <created>1637923360137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637923360137</updated>
+    </task>
+    <servers />
+  </component>
+</project>

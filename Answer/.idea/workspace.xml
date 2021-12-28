@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85fda38e-73a7-4a13-aaf0-e8e23a725df1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BookManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/test/java/BookingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/collectionEnhancements/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bungalow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/SwimmingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/lambdaInterfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/optionals/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/main/java/GoalStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/test/java/GoalStatisticsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21HWlChrv54h88fV8rINvwsbVnU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="JUnit.BookManagerTest.testGetBookInventoryCount">
+    <configuration name="BookManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Answer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookManagerTest.testGetBookInventoryCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Answer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookManagerTest" />
+      <option name="METHOD_NAME" value="testGetBookInventoryCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookManagerTest.testGetBookInventoryCountWithAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Answer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookManagerTest" />
+      <option name="METHOD_NAME" value="testGetBookInventoryCountWithAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookManagerTest.testGetBookInventoryCount" />
+        <item itemvalue="JUnit.BookManagerTest" />
+        <item itemvalue="JUnit.BookManagerTest.testGetBookInventoryCountWithAnswer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85fda38e-73a7-4a13-aaf0-e8e23a725df1" name="Default Changelist" comment="" />
+      <created>1637598642203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637598642203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="121" key="#Project_Structure" timestamp="1637598714984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="#Project_Structure/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637598714984" />
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1637670480056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="515" y="195" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1637614300060" />
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637670480056" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1637670731438">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1637615215979" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637670731438" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1637666641054" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1637670731436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1637615215978" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637670731436" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1637666641051" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1637670731434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1637615215976" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637670731434" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1637666641050" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1637670731437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1637615215978" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637670731437" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1637666641052" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1637666487611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637666487611" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1637666487609">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637666487609" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1637666487608">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637666487608" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1637666487610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637666487610" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1637669543924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1637669543924" />
+  </component>
+</project>

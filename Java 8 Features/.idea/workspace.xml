@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ef3a6f-7cb8-464c-90cf-331eb1fddff7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/collectionEnhancements/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/Bungalow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultKeyword/SwimmingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionalInterface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaInterfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodReferences/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodReferences/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/optionals/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yAMckt22Y8Qp567snMaOnfdZZM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaInterfaces.App" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaInterfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optionals.App" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optionals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.Application" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodReferences.Application" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methodReferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionEnhancements.Main" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionEnhancements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ef3a6f-7cb8-464c-90cf-331eb1fddff7" name="Default Changelist" comment="" />
+      <created>1631690139710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631690139710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1635268922837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1635268922837" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633788840238">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633788840238" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom" timestamp="1636662894555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1636662894555" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1634145710356" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1635791267091" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center" timestamp="1636662894553">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1636662894553" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1634145710353" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1635791267088" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left" timestamp="1636662894552">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1636662894552" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1634145710352" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1635791267086" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right" timestamp="1636662894554">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1636662894554" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1634145710355" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1635791267090" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1633541643981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633541643981" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1633541643977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633541643977" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1633541643975">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633541643975" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1633541643979">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633541643979" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1633859635536">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633859635536" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1633541755153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633541755153" />
+    <state x="728" y="309" key="refactoring.ChangeSignatureDialog" timestamp="1633367351705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="309" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633367351705" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1633871615995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1633871615995" />
+  </component>
+</project>

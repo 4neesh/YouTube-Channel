@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd11c657-e541-4240-be32-03d92d8dcfe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Answer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/main/java/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/main/java/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Answer/src/test/java/BookManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/main/java/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArgMatchers/src/test/java/BookingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntityManagerDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntityManagerDemo/src/main/java/RepositoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntityManagerDemo/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntityManagerDemo/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntityManagerDemo/src/test/RepositoryManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/collectionEnhancements/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Bungalow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/defaultKeyword/SwimmingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/functionalInterface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/lambdaInterfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/methodReferences/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/optionals/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 8 Features/src/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoVoid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoVoid/src/main/java/Musician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MockitoVoid/src/test/java/MusicianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/main/java/GoalStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultiStub/src/test/java/GoalStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entityManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stubbingVoid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stubbingVoid/src/main/java/ChessPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stubbingVoid/src/test/java/ChessPlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thenVsDo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thenVsDo/src/main/java/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thenVsDo/src/test/java/CarShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thenVsDo/target/classes/CarShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thenVsDo/target/test-classes/CarShopTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22PFG1ZoM6Vs40Q8IuoF5exNbil" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AnimalTest.testAnimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DefaultMockBehaviour" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTest" />
+      <option name="METHOD_NAME" value="testAnimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnimalTest.testAnimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd11c657-e541-4240-be32-03d92d8dcfe4" name="Default Changelist" comment="" />
+      <created>1639731218527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639731218527</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1639916835217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1639916835217" />
+    <state x="773" y="266" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639760485745" />
+    <state x="464" y="88" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1639761147354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="464" y="88" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639761147354" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom" timestamp="1640015011275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1639917378728" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011275" />
+    <state width="1878" height="293" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639912151464" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center" timestamp="1640015011274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="441" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1639917378725" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011274" />
+    <state width="1878" height="293" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639912151463" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left" timestamp="1640015011273">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="441" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1639917378724" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011273" />
+    <state width="1878" height="293" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639912151462" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right" timestamp="1640015011275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="441" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1639917378727" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011275" />
+    <state width="1878" height="293" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639912151463" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1640015011320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011320" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639760222319" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1640015011277">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011277" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639760222317" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1640015011276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011276" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639760222317" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1640015011278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.0.1920.1080/-1280.194.1280.777@0.0.1920.1080" timestamp="1640015011278" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1920.1057/-1280.194.1280.777@0.23.1920.1057" timestamp="1639760222318" />
+  </component>
+</project>

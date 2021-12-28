@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345e7560-c202-4202-90ff-d9687bf4f5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/main/java/DatabaseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoVerify/src/test/java/DatabaseManagerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="345e7560-c202-4202-90ff-d9687bf4f5c2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,33 +80,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mockito Verify demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1618667436299">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1631257627876">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618667436299" />
-    <state x="518" y="106" key="CommitChangelistDialog2" timestamp="1618745071926">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631257627876" />
+    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1631257627873">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="518" y="106" key="CommitChangelistDialog2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745071926" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1618745463265">
+    <state width="1878" height="369" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631257627873" />
+    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1631257627738">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745463265" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1618745463263">
+    <state width="1878" height="369" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631257627738" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1631257627875">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745463263" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1618745463262">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745463262" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1618745463264">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745463264" />
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1618745239341">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1280.171.1280.800@0.0.1920.1080" timestamp="1618745239341" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right/0.0.1920.1080/-1280.0.1280.800@0.0.1920.1080" timestamp="1631257627875" />
   </component>
 </project>
