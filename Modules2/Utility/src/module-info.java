@@ -1,4 +1,4 @@
-module com.dashboard {
+module com.utility {
 
     requires com.server;
 }

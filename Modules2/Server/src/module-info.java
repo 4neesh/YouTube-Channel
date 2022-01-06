@@ -1,5 +1,5 @@
 module com.server {
 
     exports com.services;
-    exports com.persistence;
+    exports com.persistence to com.dashboard;
 }
