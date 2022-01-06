@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9 Modularity.iml" filepath="$PROJECT_DIR$/Java9 Modularity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepositoryModule/RepositoryModule.iml" filepath="$PROJECT_DIR$/RepositoryModule/RepositoryModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceModule/ServiceModule.iml" filepath="$PROJECT_DIR$/ServiceModule/ServiceModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIModule/UIModule.iml" filepath="$PROJECT_DIR$/UIModule/UIModule.iml" />
+    </modules>
+  </component>
+</project>
