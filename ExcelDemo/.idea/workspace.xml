@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ddc67c-3b5d-4e51-9089-97b2919a42ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerWorkbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/playerWorkbook.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FootballPlayer$FootballPlayerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FootballPlayer$FootballPlayerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FootballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FootballPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$playerWorkbook.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
   <component name="ProjectId" id="28pt2zmG1Fxr0RjO9nvefs3UV1E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,7 +85,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
