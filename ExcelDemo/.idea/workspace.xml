@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40ddc67c-3b5d-4e51-9089-97b2919a42ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerWorkbook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/playerWorkbook.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FootballPlayer$FootballPlayerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FootballPlayer$FootballPlayerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FootballPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FootballPlayer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$playerWorkbook.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="40ddc67c-3b5d-4e51-9089-97b2919a42ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
