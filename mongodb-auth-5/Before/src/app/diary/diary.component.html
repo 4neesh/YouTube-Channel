@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="col">
+        <h2>Welcome to the Diary</h2>
+        
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Date</th>
+                <th>Entry</th>
+                <th *ngIf="isAuthenticated">Action</th>
+
+            </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor='let diary of diaryEntries; let i = index'>
+                    <td>{{diary.date}}</td>
+                    <td>{{diary.entry}}</td>
+                    <td *ngIf="isAuthenticated">
+                        <button class="btn btn-primary" (click)="onEdit(diary.id)">Edit</button>   
+                        <button class="btn btn-danger" (click)='onDelete(diary.id)'>Delete</button>
+                    </td>
+                </tr>   
+            </tbody>
+        
+        </table>
+
+    </div>
+</div>
