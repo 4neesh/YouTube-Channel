@@ -1,0 +1,13 @@
+<div class="row">
+    <div class="col">
+        <form (ngSubmit)="onSubmit()" [formGroup]='diaryForm'>
+            <div class="form-group">
+                <label for="date">Date</label>
+                <input class="form-control" formControlName="date" type="text">
+                <label for="entry">Entry</label>
+                <input class="form-control" formControlName="entry" type="text">
+            </div>
+            <button [disabled]="!diaryForm.valid" type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+</div>
