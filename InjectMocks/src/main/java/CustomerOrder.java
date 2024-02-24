@@ -1,8 +1,13 @@
+import org.springframework.beans.factory.annotation.Autowired;
+
 import java.util.List;
 
 public class CustomerOrder {
 
+    @Autowired
     private BreakfastWaiter breakfastWaiter;
+
+    @Autowired
     private DinnerWaiter dinnerWaiter;
 
     public void setBreakfastWaiter(BreakfastWaiter breakfastWaiter) {
